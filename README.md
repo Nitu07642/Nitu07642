@@ -9,7 +9,7 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Nitu07642&style=flat-square&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Nitu07642&style=flat-square&color=blue) (https://github.com/Nitu07642)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
