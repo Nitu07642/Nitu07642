@@ -9,6 +9,12 @@
 
 ---
 
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
 ## 🌟 Projects I'm Proud Of
 
 ### 🍛 [Meal Khuj – Food Recipe Finder](https://github.com/Nitu07642/meal-khuj-main)
