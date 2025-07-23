@@ -39,7 +39,6 @@
 > 💻 Great demo for DOM & interactivity logic
 
 ---
-
 ## 🧠 Skills & Tools
 
 **Languages:** JavaScript, Python, C++, HTML5, CSS3  
