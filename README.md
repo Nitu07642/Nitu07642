@@ -40,7 +40,6 @@ I am always open to discussing data patterns, dashboard ideas, or interesting jo
 
 ### 📊 My GitHub Activity
 
-```xml
 <p align="left">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Nitu07642&bg_color=ffffff&color=40c463&line=22c55e&point=16a34a&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Nitu07642&bg_color=ffffff&color=40c463&line=22c55e&point=16a34a&area=true&hide_border=true)" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitu07642&bg_color=ffffff&color=40c463&line=22c55e&point=16a34a&area=true&hide_border=true" width="100%" />
 </p>
