@@ -1,50 +1,41 @@
-# 🔥 Hi, I'm Nitu Kumari! 🚀
+# 👋 Hi there, I'm Nitu Kumari! ✨
 
-### 📊 Data Professional | Python • SQL • Power BI • Advanced Excel
+I am a passionate **Data Analyst** who loves turning chaotic, messy rows of data into clean, beautiful, and meaningful business stories. Coming from an engineering background, I look at data not just as numbers, but as a puzzle waiting to be solved to help businesses make smart choices. 
 
-Passionate and business-driven **Data Analyst / Applied Data Science professional** with an engineering background. I specialize in transforming massive, messy datasets into structured data pipelines, dynamic analytical models, and enterprise-grade dashboards that directly insulate businesses from data loss and maximize profitability.
-
----
-
-## 🎯 What I Do Best
-* **Advanced Data Pipeline & ETL:** Engineering rigid data cleaning frameworks, imputation models, and transaction filters to guarantee 100% database integrity.
-* **Dynamic Business Intelligence:** Formulating complex relational models and high-performance DAX engines to drive executive cross-filtering capabilities.
-* **Predictive Machine Learning:** Utilizing advanced algorithms (Random Forest, XGBoost) for real-time forecasting and diagnostic analytics.
-* **Domain Expertise:** Customer Retention, Value-Based Segmentation (RFM), and Strategic Operations.
+I really enjoy diving deep into datasets, catching hidden patterns, and building interactive dashboards that stakeholders can easily understand and play with! 
 
 ---
 
-## 🛠️ Tech Stack & Tooling
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages & Frameworks** | Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`), SQL (PostgreSQL / MySQL) |
-| **Business Intelligence** | Power BI Desktop, Advanced Excel (Pivot Tables, Feature Engineering) |
-| **Machine Learning / AI** | Random Forest, XGBoost, Predictive Forecasting, Prompt Engineering |
-| **Version Control & Cloud** | Git, GitHub |
+## 💻 My Analytics Toolkit
+* **Data Wrangling & Cleaning:** Python (`Pandas`, `NumPy`), Advanced Excel (Power Query, Profiling)
+* **Visual Storytelling:** Power BI Desktop (Relational Star Schema Modeling, Advanced DAX)
+* **Database Querying:** SQL (Writing clean queries to extract insights)
+* **Core Focus:** Customer Behavior, Business Performance, and Operations
 
 ---
 
-## 🌟 Featured Business-Ready Projects (Pinned Below 👇)
+## 🌟 Projects I Am Proud Of (Pinned Below 👇)
 
 ### 1️⃣ E-commerce Customer Segmentation (RFM Framework)
-* **Core Value:** Processed **540,000+ rows** of transaction logs. Imputed missing keys structurally to prevent multimillion data leakage and isolated 10K+ cancellation tracks.
-* **Tech:** Advanced Excel, Power BI, Advanced DAX.
+* **What I Did:** Cleaned a massive dataset of over **5.4 Lakh rows** in Excel. I handled critical data leaks by smartly imputing missing keys and separating thousands of product cancellations so the company’s net revenue numbers stayed 100% accurate. Then, I built a dynamic Power BI dashboard to sort users into classes like *Champions* and *At Risk*.
+* **Tools:** Advanced Excel, Power BI, DAX.
 
-### 2️⃣ Walmart Strategic Sales Analysis & AI Forecasting
-* **Core Value:** Engineered an active predictive pipeline utilizing **Random Forest and XGBoost** to forecast demand across massive historical distribution footprints.
-* **Tech:** Python, Jupyter Notebook, Machine Learning.
+### 2️⃣ Walmart Strategic Sales Analysis & Forecasting
+* **What I Did:** Analyzed huge historical distribution data footprints to track sales demand patterns. Handled key features like promotional markdowns, holidays, and external factors to show how store velocity changes over time.
+* **Tools:** Python, Jupyter Notebook, Data Analytics.
 
 ### 3️⃣ Telecom Customer Churn End-to-End Analysis
-* **Core Value:** Modeled user behavior metrics using **SQL** architectures for deep operational mining and built strategic cross-filtering retention playbooks.
-* **Tech:** SQL, Power BI Dashboarding.
+* **What I Did:** Used SQL to mine deep operational data and understand why customers leave. Built an active cross-filtering retention playbook on Power BI so teams can act instantly.
+* **Tools:** SQL, Power BI Dashboarding.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect!
+I am always open to discussing data patterns, dashboard ideas, or interesting job opportunities. Feel free to reach out or drop a hi! 
+
 * 💼 **LinkedIn:** [Nitu Kumari](https://www.linkedin.com/in/nitu-kumari-data)
 * 📧 **Email:** nitu07642@gmail.com
 
 ---
 
-### 📈 My GitHub Activity
+### 📊 My GitHub Activity
