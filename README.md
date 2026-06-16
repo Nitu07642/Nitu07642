@@ -1,55 +1,50 @@
-# 👋 Hi, I'm Nitu Kumari!
+# 🔥 Hi, I'm Nitu Kumari! 🚀
 
-🎓 B.Tech (ECE) | 💻 Frontend Developer | 🧠 Prompt Engineering Enthusiast  
-🚀 Passionate about building smart, responsive, and real-world web apps using React, JavaScript, and Firebase.
+### 📊 Data Professional | Python • SQL • Power BI • Advanced Excel
 
-🔍 Actively seeking **Frontend Developer / Web Developer** roles  
-📫 Reach me at: nitu07642@gmail.com  
-🌐 [Portfolio Website](https://portfolio-eqxt.vercel.app)
+Passionate and business-driven **Data Analyst / Applied Data Science professional** with an engineering background. I specialize in transforming massive, messy datasets into structured data pipelines, dynamic analytical models, and enterprise-grade dashboards that directly insulate businesses from data loss and maximize profitability.
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Nitu07642&style=flat-square&color=blue) (https://github.com/Nitu07642)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-
-## 🌟 Projects I'm Proud Of
-
-### 🍛 [Meal Khuj – Food Recipe Finder](https://github.com/Nitu07642/meal-khuj-main)
-> 🔍 Search recipes via TheMealDB API  
-> 🎨 Clean UI with random meal suggestions
-
-### 🍽️ [Nitu Cuisine](https://github.com/Nitu07642/Nitu-Cuisine-project-1)
-> 🍲 Meal recipe search app with origin info and ingredients  
-> 💡 Showcases API fetch, DOM handling, and layout skills
-
-### 🎨 [Anny Portfolio – Client Demo](https://github.com/Nitu07642/Anny-Portfolio)
-> 🧑‍🎨 HTML/CSS based personal portfolio for a fictional client  
-> 💼 Designed to demonstrate UI layout & responsive design
-
-### 🛒 [React E-Commerce App](https://github.com/Nitu07642/React-And-Firebase-Ecommerce-For-Beginners-main)
-> 🔥 React + Firebase based fully functional shopping site  
-> ✨ User Auth, Add-to-Cart, Firestore backend, Routing
-
-### ✅ [To-Do List App](https://github.com/Nitu07642/ToDoList-App)
-> 📝 Add/Delete tasks with JavaScript  
-> 💻 Great demo for DOM & interactivity logic
-
----
-## 🧠 Skills & Tools
-
-**Languages:** JavaScript, Python, C++, HTML5, CSS3  
-**Frameworks & Libraries:** React.js, Firebase, Vite  
-**Tools:** Git, GitHub, Netlify, Vercel  
-**Extras:** Prompt Engineering, Responsive Design, EmailJS
+## 🎯 What I Do Best
+* **Advanced Data Pipeline & ETL:** Engineering rigid data cleaning frameworks, imputation models, and transaction filters to guarantee 100% database integrity.
+* **Dynamic Business Intelligence:** Formulating complex relational models and high-performance DAX engines to drive executive cross-filtering capabilities.
+* **Predictive Machine Learning:** Utilizing advanced algorithms (Random Forest, XGBoost) for real-time forecasting and diagnostic analytics.
+* **Domain Expertise:** Customer Retention, Value-Based Segmentation (RFM), and Strategic Operations.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack & Tooling
 
-![Nitu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitu07642&show_icons=true&theme=radical)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Frameworks** | Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`), SQL (PostgreSQL / MySQL) |
+| **Business Intelligence** | Power BI Desktop, Advanced Excel (Pivot Tables, Feature Engineering) |
+| **Machine Learning / AI** | Random Forest, XGBoost, Predictive Forecasting, Prompt Engineering |
+| **Version Control & Cloud** | Git, GitHub |
 
 ---
+
+## 🌟 Featured Business-Ready Projects (Pinned Below 👇)
+
+### 1️⃣ E-commerce Customer Segmentation (RFM Framework)
+* **Core Value:** Processed **540,000+ rows** of transaction logs. Imputed missing keys structurally to prevent multimillion data leakage and isolated 10K+ cancellation tracks.
+* **Tech:** Advanced Excel, Power BI, Advanced DAX.
+
+### 2️⃣ Walmart Strategic Sales Analysis & AI Forecasting
+* **Core Value:** Engineered an active predictive pipeline utilizing **Random Forest and XGBoost** to forecast demand across massive historical distribution footprints.
+* **Tech:** Python, Jupyter Notebook, Machine Learning.
+
+### 3️⃣ Telecom Customer Churn End-to-End Analysis
+* **Core Value:** Modeled user behavior metrics using **SQL** architectures for deep operational mining and built strategic cross-filtering retention playbooks.
+* **Tech:** SQL, Power BI Dashboarding.
+
+---
+
+## 🤝 Connect With Me
+* 💼 **LinkedIn:** [Nitu Kumari](https://www.linkedin.com/in/nitu-kumari-data)
+* 📧 **Email:** nitu07642@gmail.com
+
+---
+
+### 📈 My GitHub Activity
